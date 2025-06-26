@@ -1,1 +1,3 @@
 Stash First Line of the file
+Second Line
+Third Line
